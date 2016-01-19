@@ -1,0 +1,13 @@
+{
+  "name": "ugly",
+  "description": "Base on gulp.",
+  "version": "0.0.1",
+  "author": "MRC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "*",
+    "gulp-less": "*",
+    "gulp-webserver": "*",
+    "gulp-file-include": "*"
+  }
+}
