@@ -1,4 +1,4 @@
-#glup 4 me
+#gulp 4 me
 
 framework:uikit
 
